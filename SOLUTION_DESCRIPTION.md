@@ -1,13 +1,16 @@
 ## 💡 Solution Description <a name = "sol_desc"></a>
 
-The problem to be answered by the Project is how to provide an efficient and secure environment to send a distress message when a natural disaster occurs (in our case, the flood disaster situation). In the scenario, there are no telecommunication links to provide essential communication (voice and data) to the rescue teams. Consequently, it is required to be innovative. It uses the means existent in the community and by volunteers, for example, drones (see the video below), to provide communication resources and support the identification of hazards.
-
 [![IMAGE_ALT](http://i3.ytimg.com/vi/N2B9ypm6PCY/hqdefault.jpg)](https://www.youtube.com/watch?v=N2B9ypm6PCY&t=16s)
 
 
+The problem to be answered by the Project is providing an efficient and secure environment to send a distress message when a natural disaster occurs (in our case, the flood disaster situation). In the scenario, there are no telecommunication links to provide essential communication (voice and data) to the rescue teams. Consequently, it is required to be innovative. It uses the means existent in the community and by volunteers, for example, drones (see the video below), to provide communication resources and support the identification of hazards.
+
+In the suggested scenario, victims in the flood area will have a smartphone with a rescue app, which enables the citizens to send their position continuously and when they are in danger (severity level message: high, medium, or low) as a simple text message (description of their situation), as it is presented in the following Figure. To provide communication support (enabling victims’ messages to flow to the Crisis Management Center - CMC), drones flying in the crisis area intercept the message and forward it to other drones until the message arrives at the CMC (given that an individual drone does not have communication for the whole disaster area). The CMC data is processed and aggregated, and a dashboard is provided for the operators to plan the rescue operation efficiently.
+
 <a name = "#arch"><img src="fig/architecture.png" alt="IoT Architecture" width="600"></a>
 
-In this scenario, victims in the flood area will have a smartphone with a rescue app, which enables the citizens to send their position continuously and when they are in danger (severity level message: high, medium, or low) as a basic text message (description of their situation), as it is presented in the next Figure. To provide communication support (enabling victims’ messages to flow to the Crisis Management Center - CMC), drones flying in the crisis area intercept the message and forward it to other drones until the message arrives at the CMC. The CMC data is processed and aggregated, and a dashboard is provided for the operators to plan the rescue operation efficiently.
+
+
 
 <a name = "#disapp"><img src="fig/app_new.png" alt="Disaster App" width="200"></a>
 
