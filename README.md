@@ -22,7 +22,6 @@
 - [Solution](SOLUTION_DESCRIPTION.md)
 - [Deliverables](DELIVERABLES.md)
 - [License](/LICENSE)
-- [Course Material](tec-course)
 
 ## 🧐 About the Project <a name = "about"></a>
 

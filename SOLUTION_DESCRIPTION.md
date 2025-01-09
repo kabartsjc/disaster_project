@@ -46,5 +46,4 @@ Aiming to help the students in the implementation of the final project, a set of
 - [Gateway / Edge Stage - Mosquitto Broker](templates/mosquitto/MOSQUITTO.md)
 - [Cloud Stage - Python MYSQL x Mosquitto Broker Integration](templates/cloud/MYSQL.md)
 - [Cloud Stage - Dashboard](templates/cloud/DASHBOARD.md)
-- [Infrastructure - Mininet-Wifi](templates/mininet/MININET.md)
 
