@@ -25,8 +25,8 @@ Its report must discourse about these topics:
 -	System Architecture: description of the system with high technical detail, including the cloud component.
 -	Threat Modeling Overview (summarize the framework; please do not cite phase by phase, but the heart of the process, its benefits, and how it differs from the other approaches).
 -	Threat Modeling Applied: artifacts with context. It is a vital part of the work. Pay attention to the correctness. Do not only enumerate and paste diagrams; make context and give the reader a pleasant experience. Be concise and precise in the information provided. Ensure that the relationship between the diagram/artifact and the information provided is clear (what the reason for the diagram is, what it shows, and how to interpret the data).
-  o	During the mitigation definition, explaining how it reduces or suppresses the risk is crucial.
-  o	It is essential to show and explain the final architecture after implementing the proposed mitigations.
+  - During the mitigation definition, explaining how it reduces or suppresses the risk is crucial.
+  - It is essential to show and explain the final architecture after implementing the proposed mitigations.
 -	Final Remarks: Analyze the results, cite limitations and challenges, make recommendations, and conclude the work.
 
 The **paper must follow the IEEE template (two columns) and be 20 to 50 pages long**, including all the figures, attachments, etc. In addition, pay attention to these tips:
