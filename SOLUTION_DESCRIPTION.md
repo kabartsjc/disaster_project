@@ -9,8 +9,7 @@ In the suggested scenario, victims in the flood area will have a smartphone with
 
 <a name = "#arch"><img src="fig/architecture.png" alt="IoT Architecture" width="600"></a>
 
-
-
+An example of the suggested app is shown in the following Figure.
 
 <a name = "#disapp"><img src="fig/app_new.png" alt="Disaster App" width="200"></a>
 
