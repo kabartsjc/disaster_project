@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="fig/iot-icon.png" alt="Cyber Security System Engineering - Final Project" width="100"></a>
+ <img src="fig/5759598.png" alt="Cyber Security System Engineering - Final Project" width="100"></a>
 </p>
 
 <h2 align="center">Cyber Security System Engineering - Final Project</h2>
