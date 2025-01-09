@@ -61,7 +61,8 @@ We use a flooding scenario to support the course in the project development. The
 
 For example, in November of 2008, Santa Catarina, a state in the south of Brazil, had a period of heavy rainfall (20-23 November). The state had suffered constant rains for over two months, which turned the soil wet enough to cause a landslide during the storm that hit the state in late November. Around 60 towns and over 1.5 million people were affected. At least 128 people have been killed, with over 78,700 forced to evacuate their homes. A further 150,000 have been left without electricity, while water rationing is being carried out in at least one town due to purification problems. Several regions’ cities have become cut off due to floodwater and landslide debris. Water levels in the Vale do Itajaí have risen to eleven meters above normal.
 
+[![IMAGE_ALT](https://img.youtube.com/vi/2RKeZk8qudA/0.jpg)](https://www.youtube.com/embed/2RKeZk8qudA)
+
 Because of the electrical blackout, many communities were left without communication, which made it difficult for people to call for help and inform others where they were. Our project will try to solve this issue.
 
-[![IMAGE_ALT](https://img.youtube.com/vi/2RKeZk8qudA/0.jpg)](https://www.youtube.com/embed/2RKeZk8qudA)
 
