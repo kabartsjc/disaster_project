@@ -1,6 +1,6 @@
 ## 🧑‍🏭Group Organization
 
-It is a group activity for students from CYSE 587 and SYST 687. **Each gropu must have 5 students (maximum number)**. I suggested that each group consist of a mix of cyber security and system engineering students, intending to have strong cyber and system engineering foundations.
+It is a group activity for students from CYSE 587 and SYST 687. **Each group must have five students (maximum number)**. I suggested that each group consist of a mix of cyber security and system engineering students, intending to have strong cyber and system engineering foundations.
 
 The group selection is free; the instructor will not facilitate group formation. This means the students must self-organize themselves into groups based on their self-preferences to develop the project.
 
@@ -15,7 +15,7 @@ Each group must elect a leader who is responsible for the submission of the arti
 
 This project aims to analyze security and privacy threats in implementing a crisis management system like the one proposed in [Solution Description](SOLUTION_DESCRIPTION.md). To do so, each group, using the theoretical foundations learned in class, must analyze the proposed problem, understanding in detail its functional and non-functional requirements, in addition to those of security and privacy, as the enumerating and ranking the threats based on its impact on the system. Next, they need to select controls and change the architecture design to make the solution comply with the developed risk analysis.
 
-To perform the above task, one must apply the frameworks, methods, and techniques learned in the classroom. A final implementation of the system is not required; however, the final architecture of the system must reflect the real implementation concepts. For example, if you define the system as implemented in a specific cloud, the components must reflect the cloud services and tools solutions.
+To perform the above task, one must apply the frameworks, methods, and techniques learned in the classroom. Although a final system implementation is not required, its architecture must reflect the real implementation concepts. For example, if the system is implemented in a specific cloud, the components must reflect the cloud services and tools solutions.
 
 The provided [general architecture](SOLUTION_DESCRIPTION.md) is a high-level abstraction version of the desired system. The group's task is to improve its description and insert the missing components to make the final solution more meaningful.
 
@@ -27,4 +27,4 @@ I remember you; it is a graduate cyber-security system engineering course. The a
 
 At the end of the projects, students must write a report showing their findings and lessons learned during the project development. 
 
-**You can see The details of these activities [HERE](DELIVERABLES.md).**
+**You can see these activities in detail [HERE](DELIVERABLES.md).**
