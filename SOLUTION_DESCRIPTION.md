@@ -25,13 +25,19 @@ Check the following figure to better understand the architecture and how it corr
 
 <a name = "#detarch"><img src="fig/detailed_arch.gif" alt="Detailed Architecture" width="600"></a>
 
-Finally, architecture has the cloud stage. In this stage, the principal Mosquitto broker is responsible for receiving all messages from the bridge brokers (drones), converting them to SQL format, and persisting into a SQL database. Another service in the cloud is the dashboard. The suggested solution is Freeboard.io which queries the required information from the SQL database and prints them in a helpful dashboard for the rescue teams.
+Finally, architecture has the cloud stage. In this stage, the principal Mosquitto broker receives all messages from the bridge brokers (drones), converts them to SQL/NOSQL format, and persists them in a database. Another service in the cloud is the dashboard. The suggested solution is Grafana, which queries the required information from the SQL/NOSQL database and prints it in a helpful dashboard for the rescue teams.
 
 As we cited, the dashboard needs to present helpful information, including the geo-information about the user nodes as the classification (KPI), calculated based on the severity sent. The formula to calculate the KPI is shown, and the color code is presented in the dashboard, which you can see in the following Figure.
 
 <a name = "#dashboard"><img src="fig/dashboard_new.png" alt="Dashboard Info" width="600"></a>
 
-As you commented, each node sends its state using MQTT to the bridge broker. The conditions can be _low, middle, or high_; where high, the **individual is in danger**, and low, **he is safe**. The dashboard needs to compile this data and, using the formula presented in the previous figure, define the **risk situation** and **colorize** the node representation in the map.
+As you commented, each node sends its state using MQTT to the bridge broker. The conditions can be _low, middle, or high_; where high; the **individual is in danger**, and low, **he is safe**. The dashboard needs to compile this data and, using the formula presented in the previous figure, define the **risk situation** and **colorize** the node representation in the map.
+
+### ➕Security and Privacy Architecture <a name = "sup_material"></a>
+
+If you read the previously suggested architecture, **you cannot see any control to provide security or privacy for the users and operators**. Despite this situation, they are mandatory. It is your task to design the required architecture components based on the analysis of this architecture to provide the security and privacy requirements.
+
+Another important question is that the cloud is characterized by a high-level abstraction. Another important task is to **design the cloud solution** based on the group's selected cloud provider.
 
 ### ➕ Support Material <a name = "sup_material"></a>
 
