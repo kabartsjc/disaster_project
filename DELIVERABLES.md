@@ -1,4 +1,4 @@
-## 🎢 Project Deliverables
+## 🎢 Major Deliverables
 
 As previously defined in the [Project Methodology](METHODOLOGY.md), the course project will be implemented in three different activities: Icebreaker, Collaboration, and Reflection. Now, we will detail each exercise and how it will be evaluated.
 * [Icebreaker (10%)](#icebreaker)
