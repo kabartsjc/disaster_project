@@ -10,7 +10,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kabartsjc/disaster_project)
 ![GitHub issues](https://img.shields.io/github/issues/kabartsjc/disaster_project)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/kabartsjc/disaster_project)
-[![License](https://img.shields.io/badge/license-GPL-blue.svg)](/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 </div>
 
 
