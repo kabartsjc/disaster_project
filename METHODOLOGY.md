@@ -27,4 +27,4 @@ I remember you; it is a graduate cyber-security system engineering course. The a
 
 At the end of the projects, students must write a report showing their findings and lessons learned during the project development. 
 
-**The detail of this activities, you can see [HERE](DELIVERABLES.md).**
+**You can see The details of these activities [HERE](DELIVERABLES.md).**
