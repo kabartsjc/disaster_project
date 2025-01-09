@@ -1,13 +1,7 @@
 ## 🎢 Major Deliverables
 
   * [Report 1 – Security Architecture](#rep1)
-  * [Step 2 – Reply to your peers (5%)](#ice_reply)
-* [Collaboration (80%)](#collaboration)
-  * [Step 1 – Project Setup (10%)](#col_set)
-  * [Step 2 – Client & Edge Stage (10%)](#col_cli)
-  * [Step 3 – Cloud Stage (10%)](#col_cloud)
-  * [Step 4 – Final Presentation (50%)](#col_ppt)
-* [Reflection (10%)](#reflection)
+  * [Report 2 – Privacy Architecture](#rep2)
 
 
 ### 📹 Report 1 – Security Architecture  <a name = "rep1"></a>
@@ -40,7 +34,7 @@ To organize the paper, use the structure provided by the [IEEE](https://conferen
 Each group member must also submit the **peer evaluation**, following the directions defined in the course syllabus.
 
 
-### 💬💬 Step 2 – Reply to your peers  <a name = "ice_reply"></a>
+### 💬💬 Report 2 – Privacy Architecture  <a name = "rep2"></a>
 
 Once you have posted your message, reply to at least two other students (**from the other country**) that you don't know, and comment on what you find interesting about their post. The follow-up posts should consist of one well-crafted paragraph, including an introductory sentence and finishing a section with a concluding statement or question.
 -	Did you find something interesting in your peer's post? Do you observe any differences or similarities with your peers? Do you have any advice for them?
