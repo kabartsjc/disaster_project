@@ -8,6 +8,8 @@ Each group must elect a leader who is responsible for the submission of the arti
 
 **The group leader must submit a Word doc file containing the full names of the group members, the leader, and the theme name until week 4 in Canvas**.
 
+**Each group must create a GitHub repository to store the project files. The instructors will use the repository to grade the individuals based on how much each member contributes to the final artifacts.**
+
 
 ### 😎 The Task Description
 

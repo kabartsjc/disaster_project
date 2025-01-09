@@ -1,8 +1,6 @@
 ## 🎢 Major Deliverables
 
-As previously defined in the [Project Methodology](METHODOLOGY.md), the course project will be implemented in three different activities: Icebreaker, Collaboration, and Reflection. Now, we will detail each exercise and how it will be evaluated.
-* [Icebreaker (10%)](#icebreaker)
-  * [Step 1 – Icebreaker Video (5%)](#ice_video)
+  * [Report 1 – Security Architecture](#rep1)
   * [Step 2 – Reply to your peers (5%)](#ice_reply)
 * [Collaboration (80%)](#collaboration)
   * [Step 1 – Project Setup (10%)](#col_set)
@@ -11,25 +9,36 @@ As previously defined in the [Project Methodology](METHODOLOGY.md), the course p
   * [Step 4 – Final Presentation (50%)](#col_ppt)
 * [Reflection (10%)](#reflection)
 
-## 😎 Icebreaker <a name = "icebreaker"></a>
 
-**Icebreaker** is an activity through which the participating students initiate the exchange and interaction with their classmates in an informal way to begin to generate a sense of confidence in communication and the use of technology applied. An icebreaker is an activity or game designed to welcome attendees and warm up the conversation among participants in a meeting, training class, team building session, or other activity. Any event that requires people to interact with each other comfortably and a facilitator is an opportunity to use an icebreaker. 
+### 📹 Report 1 – Security Architecture  <a name = "rep1"></a>
 
-### 📹 Step 1 – Icebreaker Video  <a name = "ice_video"></a>
+This report aims to apply one of the security threat analysis frameworks learned in the classroom (Process for Attack Simulation and Threat Analysis (PASTA) or OCTAVE) to security threat modeling and analysis of the disaster relief system. Remember, the above frameworks aim to systematically model threats in a system using a risk-analysis approach and ensure that it complies with the system's business goal.
 
-Each student will make a video introducing yourself (1-3 minutes) where you tell us about yourself, who you are, where you are from, what you like to do in your free time, what are some of your interests or passions, and your plans.  The idea is to focus more on what the international peers (you suppose) do not know about you, your city, your country, and your school.
+This task's deliverable is a report containing the insights of the security threat analysis framework. Remember that this task consists of modeling the disaster relief system, which requires detailed defining all of its functions, subfunctions, services, and providers. Remember that some technologies (MQTT, Mosquitto broker, etc.) are determined in advance and require you to complement the model, including how this solution is deployed in a real environment. It does not mean you must deploy the final code; however, the architecture must reflect all the required components [**YOU WILL CREATE A MODEL**].
 
-Try to get the group’s attention and remember that this is your opportunity to meet interesting people worldwide. Feel free to express yourself; this is a safe place we all respect.
+A good starting point for this analysis is to read the material provided by the Federal Emergency Management Agency, which is a federal agency that helps Americans prepare for and recover from disasters. One of its documents is the [Local Disaster Recovery Managers Responsibilities](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/community-recovery-management-toolkit/recovery-planning/local-disaster-recovery-managers-responsibilities).
 
-After you generate the video, assign this space in [Padlet](https://globalclassroom.padlet.org/barretoabb/4jnahbgrbv979pu7); here, you will start a new post with your information as the title following this format: **Institution.FirstName.Lastname** (ex.: TEC.Alexandre.Barreto).
+The deliverable report must have the results of the framework steps and must be written following the IEEE template [Ulrich, Gael D. "Write a good technical report." IEEE Transactions on professional communication 1 (1984): 14-19](https://ieeexplore.ieee.org/abstract/document/6448763?casa_token=KhSLROZLNl0AAAAA:wwaG-hl135A6Ov_irj-cw9ghmWgOLv3jOltyvAQC7dQgvUCutuIds1RdVPQFjAGADLdKeQVD). 
 
-You can find the manual to create a post in the Padlet [HERE](https://www.screencast.com/t/eFdwEv3tE).
+Its report must discourse about these topics:
+-	Introduction: Contextualize the work and the disaster relief crises problem and provide technical context.
+-	System Architecture: description of the system with high technical detail, including the cloud component.
+-	Threat Modeling Overview (summarize the framework; please do not cite phase by phase, but the heart of the process, its benefits, and how it differs from the other approaches).
+-	Threat Modeling Applied: artifacts with context. It is a vital part of the work. Pay attention to the correctness. Do not only enumerate and paste diagrams; make context and give the reader a pleasant experience. Be concise and precise in the information provided. Ensure that the relationship between the diagram/artifact and the information provided is clear (what the reason for the diagram is, what it shows, and how to interpret the data).
+  o	During the mitigation definition, explaining how it reduces or suppresses the risk is crucial.
+  o	It is essential to show and explain the final architecture after implementing the proposed mitigations.
+-	Final Remarks: Analyze the results, cite limitations and challenges, make recommendations, and conclude the work.
 
-#### Rubric
-- **(100 points):** You make a post with your video of 1 to 3 minutes introducing yourself to your colleagues, talking about who you are, where you are from, what you like to do in your free time, what are some of your interests or passions, and your plans.
-- **(80 points):** You make a post with your video of 1 to 3 minutes introducing yourself to your colleagues, but you missed to talk at least about one of these topics: who you are, where you are from, what you like to do in your free time, what are some of your interests or passions, and your plans.
-- **(50 points):** You make a post with a brief video (less than 1 minute).
-- **(0 points):** You did not share a video.
+The **paper must follow the IEEE template (two columns) and be 20 to 50 pages long**, including all the figures, attachments, etc. In addition, pay attention to these tips:
+1.	focus on the main goal or problem you want to discuss.
+2.	Spend more time on the problem description and result analysis.
+3.	Avoid plagiarism.
+4.	The target is to explain complex topics clearly.
+
+To organize the paper, use the structure provided by the [IEEE](https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/structure-your-paper/).
+
+Each group member must also submit the **peer evaluation**, following the directions defined in the course syllabus.
+
 
 ### 💬💬 Step 2 – Reply to your peers  <a name = "ice_reply"></a>
 
