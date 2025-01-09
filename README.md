@@ -7,9 +7,9 @@
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/kabartsjc/gsl-iot-2022)
-![GitHub issues](https://img.shields.io/github/issues/kabartsjc/gsl-iot-2022)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kabartsjc/gsl-iot-2022)
+![GitHub last commit](https://img.shields.io/github/last-commit/kabartsjc/disaster_project)
+![GitHub issues](https://img.shields.io/github/issues/kabartsjc/disaster_project)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kabartsjc/disaster_project)
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](/LICENSE)
 </div>
 
