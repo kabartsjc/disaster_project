@@ -6,7 +6,7 @@
 
 ### 📹 Report 1 – Security Architecture  <a name = "rep1"></a>
 
-This report aims to apply one of the security threat analysis frameworks learned in the classroom (Process for Attack Simulation and Threat Analysis (PASTA) or OCTAVE) to security threat modeling and analysis of the disaster relief system. Remember, the above frameworks aim to systematically model threats in a system using a risk-analysis approach and ensure that it complies with the system's business goal.
+This report aims to apply one of the security threat analysis frameworks learned in the classroom (Process for Attack Simulation and Threat Analysis (PASTA) to security threat modeling and analysis of the disaster relief system. Remember, the above frameworks aim to systematically model threats in a system using a risk-analysis approach and ensure that it complies with the system's business goal.
 
 This task's deliverable is a report containing the insights of the security threat analysis framework. Remember that this task consists of modeling the disaster relief system, which requires detailed defining all of its functions, subfunctions, services, and providers. Remember that some technologies (MQTT, Mosquitto broker, etc.) are determined in advance and require you to complement the model, including how this solution is deployed in a real environment. It does not mean you must deploy the final code; however, the architecture must reflect all the required components [**YOU WILL CREATE A MODEL**].
 
