@@ -42,10 +42,10 @@ During this activity, you will apply the LINDDUN privacy engineering framework t
 
 Please note that **this is not a standalone report**, but rather an **additional report**. The idea is not to conduct a new ad hoc analysis, but to incorporate privacy threats into your previous study, thereby improving the system with privacy and design principles. **As in the first report, you must ultimately have an updated version of the system architecture that accomplishes the security and privacy requirements**. **In addition, you must pay attention to follow the PASTA framework (used in the security threat analysis - first report). You need to adapt the LINDDUN privacy engineering framework to take into consideration the steps of PASTA, ensuring that business goals are mapped correctly in the privacy analysis.**
 
-The deliverable report must have the results of the framework steps and must be written following the IEEE template [Ulrich, Gael D. "Write a good technical report." IEEE Transactions on professional communication 1 (1984): 14-19](https://ieeexplore.ieee.org/abstract/document/6448763?casa_token=KhSLROZLNl0AAAAA:wwaG-hl135A6Ov_irj-cw9ghmWgOLv3jOltyvAQC7dQgvUCutuIds1RdVPQFjAGADLdKeQVD). 
+The deliverable report must include the results of the framework steps and be written in accordance with the IEEE template [Ulrich, Gael D. "Write a good technical report." IEEE Transactions on professional communication 1 (1984): 14-19](https://ieeexplore.ieee.org/abstract/document/6448763?casa_token=KhSLROZLNl0AAAAA:wwaG-hl135A6Ov_irj-cw9ghmWgOLv3jOltyvAQC7dQgvUCutuIds1RdVPQFjAGADLdKeQVD). 
 
-Its report must discourse about these topics:
--	**Introduction**: Contextualize the work and the disaster relief crises problem and provide technical context.
+Its report must discuss these topics:
+- **Introduction**: Contextualize the work and the disaster relief crisis problem, providing technical context.
 -	**System Architecture**: a description of the system architecture developed in the first report, an explanation of its main components, and a description of how it ensures the required security properties of the system.
 -	**Privacy Threat Modeling Overview**: give a summarized explanation about the LINDDUN; please do not cite phase by phase, but the heart of the process, its benefits, and how it differs from the other approaches
 -	**Privacy Threat Modeling Applied**: artifacts with context. This is a vital part of the work. Please pay attention to its correctness. Do not only enumerate and paste diagrams; create context and give the reader a pleasant experience. Be concise and precise in the information provided. Ensure that the relationship between the diagram/artifact and the information provided is clear (what the reason for the diagram is, what it shows, and how to interpret the data).
@@ -54,10 +54,10 @@ Its report must discourse about these topics:
 -	**Final Remarks**: Analyze the results, cite limitations and challenges, make recommendations, and conclude the work.
 
 The paper must **follow the IEEE template (two columns) and be 20 to 60 pages long**, including all the figures, attachments, etc. In addition, pay attention to these tips:
-1.	focus on the main goal or problem you want to discuss.
+1.	Focus on the main goal or problem you want to discuss.
 2.	Spend more time on the problem description and result analysis.
 3.	Avoid plagiarism.
-4.	The target is to explain complex topics clearly.
+4. The goal is to explain complex topics clearly.
 To organize the paper, use the structure provided by the [IEEE](https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/structure-your-paper/).
 
 Each group member must also submit the **peer evaluation**, following the directions defined in the course syllabus.
